@@ -4,7 +4,7 @@ language: cpp
 compiler:
 - gcc
 # Uncomment when we can actually build with clang
-#- clang
+- clang
 addons:
   apt:
     packages:
